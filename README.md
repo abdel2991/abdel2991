@@ -25,3 +25,5 @@ Here is a quick overview of this project's goals:
 
 Getting Started
 If you want to read how to get started building a robot for yourself, check the OpenMower Website. There you can find information on which parts to buy, how to install the software and so on. If you find anything missing, please join the Discord server and ask there. Also there's the OpenMower Wiki which is written by the community. It has some additional guides and information.
+
+This project is tested with BrowserStack
